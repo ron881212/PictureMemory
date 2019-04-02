@@ -1,0 +1,22 @@
+/* .nav-item{
+    display: flex;
+}
+
+#instructions{
+    color: red;
+}
+*/
+/* #score{
+    display: inline-block;
+    width: 33.3%;
+} */
+
+.navbar-nav li {
+    display: inline-block;
+    width: 33.3%;
+    text-align: center;
+}
+
+/* li {
+    width: 33%;
+} */
