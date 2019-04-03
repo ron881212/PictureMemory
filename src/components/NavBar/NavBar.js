@@ -9,7 +9,7 @@ render(){
     // console.log(OnePiece);
     
     return(
-        <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top mb-5 p-3">
+        <nav className="navbar navbar-expand-lg sticky-top mb-5 p-3">
             <ul className="navbar-nav">
                 <li className="navbar-brand">
                 Memory Game
@@ -18,7 +18,7 @@ render(){
                 Click an image to begain { }
                 </li>
                 <li className="" id="score">
-                Score: {this.props.score} | Top Score: {} 
+                Score: {this.props.score} | Top Score: {this.props.topScore} 
                 </li>
             </ul>
         </nav>
