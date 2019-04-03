@@ -5,6 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## This website was created with react 
 
 #### Click on the link below to Play
-[Play Now](https://github.com/ron881212/PictureMemory).
+[Play Now](https://ron881212.github.io/PictureMemory/).
 
 
